@@ -1,0 +1,2 @@
+# Ramdom
+QuickNotes
